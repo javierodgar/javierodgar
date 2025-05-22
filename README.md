@@ -1,48 +1,47 @@
-# 👋 ¡Hola, soy Javier Rodriguez!
+<h2 align="left">Hi 👋! My name is Javier Rodriguez and I'm a Full Stack Web Developer from Spain</h2>
 
-### 👨‍💻 Desarrollador Web Full Stack
+###
 
-¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado desarrollador web con experiencia en tecnologías de frontend y backend, siempre buscando superarme y aprender algo nuevo cada día.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=javierodgar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=javierodgar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
----
+###
 
-## 🚀 Tecnologías principales
+<br clear="both">
 
-- **Frontend:** HTML, CSS, JavaScript, Angular
-- **Backend:** PHP
-- **Estilos:** Bootstrap, Material (básico)
-- **Otros:** Conocimientos básicos en Java
-- **Intereses actuales:** Python, Spring, Spring Boot, **React**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+</div>
 
----
+###
 
-## 🌱 Sobre mí
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-- Me encanta aprender nuevas tecnologías, metodologías y herramientas.
-- Disfruto tanto de trabajar con frameworks modernos como de crear proyectos con tecnologías nativas (HTML, JS, CSS, PHP).
-- Actualmente, Angular es mi framework favorito, ¡pero nunca dejo de lado el poder de lo básico!
-- Tengo muchas ganas de aprender **React** y profundizar en el desarrollo con este popular framework de frontend.
-- Siempre estoy involucrado en algún proyecto, ya sea personal o profesional. El progreso constante y el escribir código de mayor calidad cada día es lo que más disfruto.
+###
 
----
+<img src="https://raw.githubusercontent.com/javierodgar/javierodgar/output/snake.svg" alt="Snake animation" />
 
-## 🛠️ ¿En qué estoy interesado?
-
-- Profundizar en el ecosistema Java con **Spring** y **Spring Boot**
-- Aprender y crear proyectos con **Python**
-- Mejorar mis habilidades en frameworks de estilos como **Material**
-- Iniciar proyectos y aprender **React**
-
----
-
-## 📫 ¡Conectemos!
-
-¿Quieres hablar de tecnología, colaborar en proyectos o simplemente compartir ideas? ¡No dudes en contactarme!
-
----
-
-> “El hecho de poder picar código de mayor calidad día a día es algo que me encanta.”
-
----
-
-¡Gracias por visitar mi perfil! 🚀
+###
