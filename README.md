@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 ¡Hola, soy Javier Rodriguez!
 
-<!--
-**javierodgar/javierodgar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Desarrollador Web Full Stack
 
-Here are some ideas to get you started:
+¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado desarrollador web con experiencia en tecnologías de frontend y backend, siempre buscando superarme y aprender algo nuevo cada día.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologías principales
+
+- **Frontend:** HTML, CSS, JavaScript, Angular
+- **Backend:** PHP
+- **Estilos:** Bootstrap, Material (básico)
+- **Otros:** Conocimientos básicos en Java
+- **Intereses actuales:** Python, Spring, Spring Boot, **React**
+
+---
+
+## 🌱 Sobre mí
+
+- Me encanta aprender nuevas tecnologías, metodologías y herramientas.
+- Disfruto tanto de trabajar con frameworks modernos como de crear proyectos con tecnologías nativas (HTML, JS, CSS, PHP).
+- Actualmente, Angular es mi framework favorito, ¡pero nunca dejo de lado el poder de lo básico!
+- Tengo muchas ganas de aprender **React** y profundizar en el desarrollo con este popular framework de frontend.
+- Siempre estoy involucrado en algún proyecto, ya sea personal o profesional. El progreso constante y el escribir código de mayor calidad cada día es lo que más disfruto.
+
+---
+
+## 🛠️ ¿En qué estoy interesado?
+
+- Profundizar en el ecosistema Java con **Spring** y **Spring Boot**
+- Aprender y crear proyectos con **Python**
+- Mejorar mis habilidades en frameworks de estilos como **Material**
+- Iniciar proyectos y aprender **React**
+
+---
+
+## 📫 ¡Conectemos!
+
+¿Quieres hablar de tecnología, colaborar en proyectos o simplemente compartir ideas? ¡No dudes en contactarme!
+
+---
+
+> “El hecho de poder picar código de mayor calidad día a día es algo que me encanta.”
+
+---
+
+¡Gracias por visitar mi perfil! 🚀
